@@ -3,8 +3,8 @@ bonsai-budgets.netlify.app
 Bonsai Budgets is a budget tracking app that I built to help me keep track of my expenses as I move.
 It is made with React, Bootstrap and CSS.
 
-![name-of-you-image](https://your-copied-image-address)
+![mobile-view](https://github.com/Eemory/Bonsai-Budgets/blob/main/bonsai-budgets-imgs/Screenshot%20(25).png?raw=true)
 
-![name-of-you-image](https://your-copied-image-address)
+![tablet-view](https://github.com/Eemory/Bonsai-Budgets/blob/main/bonsai-budgets-imgs/Screenshot%20(24).png)
 
-![name-of-you-image](https://your-copied-image-address)
+![desktop-view](https://github.com/Eemory/Bonsai-Budgets/blob/main/bonsai-budgets-imgs/Screenshot%20(23).png)
